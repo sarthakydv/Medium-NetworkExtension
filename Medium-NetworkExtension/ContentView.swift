@@ -19,7 +19,7 @@ struct ContentView: View {
         }
         .padding()
         .onAppear{
-            NEFilterManager.shared().isEnabled = true
+            // MARK: Load NetworkExtension
             NEFilterManager.shared().loadFromPreferences{error in
                 if let  saveError = error {
                     print("Failed to save the filter configuration: \(saveError)")
@@ -29,12 +29,7 @@ struct ContentView: View {
     }
     
     func askPermission(){
-        NEFilterManager.shared().isEnabled = true
-        NEFilterManager.shared().loadFromPreferences{error in
-            if let  saveError = error {
-                print("Failed to save the filter configuration: \(saveError)")
-            }
-        }
+        // MARK: Configure Provider
         if NEFilterManager.shared().providerConfiguration == nil {
             let newConfiguration = NEFilterProviderConfiguration()
             newConfiguration.organization = "Medium-NetworkExtension"
@@ -42,6 +37,7 @@ struct ContentView: View {
             newConfiguration.filterSockets = true
             NEFilterManager.shared().providerConfiguration = newConfiguration
         }
+        NEFilterManager.shared().isEnabled = true
         NEFilterManager.shared().saveToPreferences { error in
             if let  saveError = error {
                 print("Failed to save the filter configuration: \(saveError)")
