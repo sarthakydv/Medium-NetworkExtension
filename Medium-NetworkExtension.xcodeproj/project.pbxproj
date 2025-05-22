@@ -616,7 +616,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Medium-NetworkExtension/Preview Content\"";
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Medium-NetworkExtension/Info.plist";
@@ -631,7 +631,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.adora";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -648,7 +648,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Medium-NetworkExtension/Preview Content\"";
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Medium-NetworkExtension/Info.plist";
@@ -663,7 +663,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.adora";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -677,7 +677,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MARKETING_VERSION = 1.0;
@@ -696,7 +696,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
 				MARKETING_VERSION = 1.0;
@@ -714,7 +714,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtensionUITests";
@@ -731,7 +731,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtensionUITests";
@@ -749,7 +749,7 @@
 				CODE_SIGN_ENTITLEMENTS = ContentFilter/ContentFilter.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContentFilter/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ContentFilter;
@@ -760,7 +760,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.ContentFilter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.adora.ContentFilter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -775,7 +775,7 @@
 				CODE_SIGN_ENTITLEMENTS = ContentFilter/ContentFilter.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContentFilter/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ContentFilter;
@@ -786,7 +786,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.ContentFilter";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.adora.ContentFilter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -801,7 +801,7 @@
 				CODE_SIGN_ENTITLEMENTS = ContentFilterData/ContentFilterData.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContentFilterData/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ContentFilterData;
@@ -813,7 +813,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.ContentFilterData";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.adora.ContentFilterData";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -828,7 +828,7 @@
 				CODE_SIGN_ENTITLEMENTS = ContentFilterData/ContentFilterData.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = DP3K3GBL6K;
+				DEVELOPMENT_TEAM = LZ9NKHJ2ML;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ContentFilterData/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = ContentFilterData;
@@ -840,7 +840,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.ContentFilterData";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dasontio.Medium-NetworkExtension.adora.ContentFilterData";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
